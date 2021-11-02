@@ -1,5 +1,4 @@
-# Dataset 1 - 2
-Dataset Daun Nangka Dan Daun Blimbing wuluh 
+# Dataset Daun Nangka Dan Daun Blimbing wuluh 
 
 Nama: Muhammad Aulanas Bitaqwa
 
